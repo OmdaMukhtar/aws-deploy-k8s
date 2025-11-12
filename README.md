@@ -2,8 +2,8 @@
 
 Deploy a LAMP stack (Linux, Apache, MySQL, PHP) on an AWS-hosted Kubernetes cluster using Terraform.
 
-![k8s](assets/k8s.png)
-
+![k8s](assets/k8s_aws.png)
+---
 ## Structure
 
 ```sh
